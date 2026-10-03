@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Denizli Korsan Taksi: Denizli Yolunda Güvenli Ulaşım</title>
+  <link href="https://denizlikorsantaksi.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://denizlikorsantaksi.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://denizlikorsantaksi.github.io/</id>
+  <updated>2026-10-03T16:38:14.673Z</updated>
+  <author><name>Denizli Korsan Taksi</name></author>
+  <entry>
+    <title>Denizli Korsan Taksi: Denizli Yolunda Güvenli Ulaşım</title>
+    <link href="https://denizlikorsantaksi.github.io/" rel="alternate" type="text/html"/>
+    <id>https://denizlikorsantaksi.github.io/</id>
+    <updated>2026-10-03T16:38:14.673Z</updated>
+    <summary>Denizli Denizli korsan taksi hattı — Çardak Havalimanı karşılama, OSB vardiya, Pamukkale. Yola çıkmadan fiyat, gece ve bayramda da araç.</summary>
+  </entry>
+</feed>
